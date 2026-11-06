@@ -22,7 +22,7 @@
 
 | 序号 | 世界书名称 (中文 / 英文) | 子目录详细文档 | 对应源文件 (中/英文版同构) | 条目总数 (常驻 / 关键词) | 核心功能定位与理论溯源基础 |
 | :---: | :--- | :--- | :--- | :---: | :--- |
-| **01** | **性别去刻板印象化 2.0**<br>*(Gender De-stereotyping 2.0)* | [中文](https://www.google.com/search?q=./Gender-De-stereotyping-2.0/README-zh.md) · [English](https://www.google.com/search?q=./Gender-De-stereotyping-2.0/README.md) | `性别去刻板印象化2.0.json`<br>`Gender De-stereotyping 2.0.json` | **19**<br>*(19 常驻 / 0 关键词)* | **全天候静默运行的性别、亲缘与身体去刻板印象引擎。** 破除“霸总/娇妻”与生理决定论套路，将性别操演、脆弱性、规训机构、话语生产与非二元人类学思想实验转化为细腻的身体与关系张力 *(巴特勒、福柯、德里达/沃特金、勒古恩)*。 |
+| **01** | **性别去刻板印象化 2.0**<br>*(Gender De-stereotyping 2.0)* | [中文](Gender-De-stereotyping-2.0/README-zh.md) · [English](Gender-De-stereotyping-2.0/README.md) | `性别去刻板印象化2.0.json`<br>`Gender De-stereotyping 2.0.json` | **19**<br>*(19 常驻 / 0 关键词)* | **全天候静默运行的性别、亲缘与身体去刻板印象引擎。** 破除“霸总/娇妻”与生理决定论套路，将性别操演、脆弱性、规训机构、话语生产与非二元人类学思想实验转化为细腻的身体与关系张力 *(巴特勒、福柯、德里达/沃特金、勒古恩)*。 |
 | **02** | **宏观时空**<br>*(Macro Spacetime)* | [中文](https://www.google.com/search?q=./Macro-Spacetime/README-zh.md) · [English](https://www.google.com/search?q=./Macro-Spacetime/README.md) | `宏观时空.json`<br>`Macro Spacetime.json` | **154**<br>*(5 常驻 / 149 关键词)* | **跨世界观宏观社会、政治、法权与经济推演总引擎。** 适用于奇幻、科幻、架空历史与政治剧，涵盖法秩序、主权决断、帝国边疆、潜隐剧本、逃逸社会、社会运动、社会革命、科学范式、场域惯习、生产方式再生产及“活的世界”反全知物理规则 *(哈特、施米特、萨义德、斯科特、赵鼎新、斯考切波、列维-斯特劳斯、沃尔夫、周雪光、阿甘本、库恩、吉登斯、布尔迪厄、阿尔都塞、福柯、德里达/沃特金、恩格斯、康拉德)*。 |
 | **03** | **中世纪**<br>*(Middle Ages)* | [中文](https://www.google.com/search?q=./Middle-Ages/README-zh.md) · [English](https://www.google.com/search?q=./Middle-Ages/README.md) | `中世纪.json`<br>`Middle Ages.json` | **88**<br>*(0 常驻 / 88 关键词)* | **零常驻开销的中世纪、早期近代与暗黑奇幻专项世界书。** 100% 按需触发，涵盖国王的两个身体、新教伦理与商帮信用、宗教裁判所微观史、炼狱空间化、卢丹附魔政治剧场、热沃当怪兽恐慌、罗马骑士官僚、国家控制室，以及 20 条目条顿军事修会硬核探案系统 *(康托洛维茨、韦伯、金茨堡、勒高夫、赫胥黎、杰伊·M.史密斯、达文波特、梅迪纳、福柯、尼古拉斯·莫顿)*。 |
 | **04** | **道德伦理学 2.1**<br>*(Moral Ethics 2.1)* | [中文](https://www.google.com/search?q=./Moral-Ethics-2.1/README-zh.md) · [English](https://www.google.com/search?q=./Moral-Ethics-2.1/README.md) | `道德伦理学2.1.json`<br>`Moral Ethics 2.1.json` | **72**<br>*(3 常驻 / 69 关键词)* | **规范伦理学与微观符号互动论心理推演双核引擎。** 结合 `{{MoralPressure}}` 逻辑门、`<think>` 伦理思维链与 `<Moral_Audit>` 道德资产负债表，串联沃尔夫 15 章道德哲学、米德 42 章《心灵、自我与社会》（主我 `I` vs 客我 `Me`）、乔姆斯基生成心智、福柯自我技术、德里达解构伦理、格式塔疗法与自身经验偏置模块 *(沃尔夫、米德、乔姆斯基、福柯、德里达/沃特金、格式塔心理学)*。 |
@@ -40,21 +40,17 @@
 ## 世界书功能速览
 
 ### 1. 性别去刻板印象化 2.0 (`Gender De-stereotyping 2.0`)
-* **详细文档：** [./Gender-De-stereotyping-2.0/README-zh.md](https://www.google.com/search?q=./Gender-De-stereotyping-2.0/README-zh.md) | [./Gender-De-stereotyping-2.0/README.md](https://www.google.com/search?q=./Gender-De-stereotyping-2.0/README.md)
 * **架构特点：** 共 19 个常驻条目（`14 条 @D4`，`5 条 @D2`），融合朱迪斯·巴特勒《性别麻烦》《消解性别》、米歇尔·福柯《性经验史（三卷本）》《伦理：主体性与真理》、克里斯托弗·沃特金《雅克·德里达》以及厄休拉·勒古恩《黑暗的左手》与〈性别是必要的吗？〉。
 * **核心作用：** 彻底消除大模型将角色简化为“男强女弱/生理本能宿命论”的刻板印象，内置落笔前五步静默检查器（`[BUTLER:CHECKLIST]`）以及面向奇幻/科幻无性别或非父权设定的社会权力推演引擎。
 
 ### 2. 宏观时空 (`Macro Spacetime`)
-* **详细文档：** [./Macro-Spacetime/README-zh.md](https://www.google.com/search?q=./Macro-Spacetime/README-zh.md) | [./Macro-Spacetime/README.md](https://www.google.com/search?q=./Macro-Spacetime/README.md)
 * **架构特点：** 共 154 个条目（`5 条常驻`核心路由 + `149 条关键词触发`模块），整合 18 部经典学术著作及 `[CORE:ALL]` 跨世界观总控路由、`[活的世界]` 动态反全知与物理交锋系统。
 * **核心作用：** 专为宏大政治博弈、帝国边疆、殖民特许公司、社会抗争、政权更替、法师塔/科学院学派之争及政治经济学推演打造。内置术语转译器，自动将奇幻/科幻/历史本土概念映射至底层制度机制，并强制每一项宏观变动同时在直接层、制度层与日常层留下账本后果。
 
 ### 3. 中世纪 (`Middle Ages`)
-* **详细文档：** [./Middle-Ages/README-zh.md](https://www.google.com/search?q=./Middle-Ages/README-zh.md) | [./Middle-Ages/README.md](https://www.google.com/search?q=./Middle-Ages/README.md)
 * **架构特点：** 共 88 个按需激活的关键词条目（`0 常驻`，平时不占任何上下文），从宏观包中独立拆分并扩充，专为中世纪、早期近代与古典/暗黑奇幻题材提供高密度历史细节。
 * **核心作用：** 当剧情涉及王冠双体与废黜仪式（*康托洛维茨*）、新教禁欲商帮与教派信用（*韦伯*）、磨坊主异端宇宙观与宗教裁判所档案（*金茨堡*）、炼狱地理入口与牧灵经济（*勒高夫*）、修女院附魔政治剧场（*赫胥黎*）、热沃当怪兽恐慌与猎人授权（*史密斯*）、罗马骑士官僚阶梯（*达文波特*）、国家控制室与仪表盘政治（*梅迪纳*）、里维耶多重话语卷宗（*福柯*）或 20 条目条顿军事修会跨国物流与五重交叉探案法（*莫顿*）时精准唤醒。
 
 ### 4. 道德伦理学 2.1 (`Moral Ethics 2.1`)
-* **详细文档：** [./Moral-Ethics-2.1/README-zh.md](https://www.google.com/search?q=./Moral-Ethics-2.1/README-zh.md) | [./Moral-Ethics-2.1/README.md](https://www.google.com/search?q=./Moral-Ethics-2.1/README.md)
 * **架构特点：** 共 72 个条目（`3 条常驻`门禁/动机引擎 + `69 条关键词触发`章节与补丁），汇集沃尔夫《道德哲学导论》全 15 章、米德《心灵、自我与社会》全 42 章、乔姆斯基《语言与心智》、福柯自我技术、德里达解构伦理、格式塔心理治疗及原创 `[SELF-REASONING]` 经验偏置模块。
 * **核心作用：** 赋予角色深邃的道德困境推演与微观人际互动张力。平时在低压力日常中静默运行（`MoralPressure < 70`）；一旦遭遇背叛、牺牲、胁迫或价值撕裂（`MoralPressure >= 70`），立即开启四步 `<think>` 伦理自检与 `<Moral_Audit>` 道德资产负债表，追踪角色的道德债务与“主我（I）/客我（Me）”分裂。
