@@ -1,7 +1,7 @@
 # Middle Ages (`中世纪`)
 
 
-[ ← Back to Repository Index ](./README.md) &nbsp;|&nbsp; [ 简体中文 ](README-zh.md)
+[ ← Back to Repository Index ](../../README.md) &nbsp;|&nbsp; [ 简体中文 ](README-zh.md)
 
 **An 88-entry, zero-permanent-overhead SillyTavern World Book for medieval, early-modern, crusade mystery, and dark-fantasy roleplay.**
 

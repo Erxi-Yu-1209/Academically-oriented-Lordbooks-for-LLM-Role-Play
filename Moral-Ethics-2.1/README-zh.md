@@ -1,7 +1,7 @@
 # 道德伦理学 2.1 (`Moral Ethics 2.1`)
 
 
-[ ← 返回仓库主页 ](./README-zh.md) &nbsp;|&nbsp; [ English ](README.md)
+[ ← 返回仓库主页 ](../../README-zh.md) &nbsp;|&nbsp; [ English ](README.md)
 
 **融合规范道德哲学、米德符号互动论（主我 `I` vs 客我 `Me`）、生成语言学、自我技术、格式塔疗法与经验偏置的 72 条目 SillyTavern 伦理与心理推演世界书。**
 
