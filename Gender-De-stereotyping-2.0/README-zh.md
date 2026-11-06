@@ -1,7 +1,7 @@
 # 性别去刻板印象化 2.0 (`Gender De-stereotyping 2.0`)
 
 
-[ ← 返回仓库主页 ](https://www.google.com/search?q=../README-zh.md) &nbsp;|&nbsp; [ English ](README.md) &nbsp;•&nbsp; [ 简体中文 ](README-zh.md)
+[ ← 返回仓库主页 ](./README-zh.md) &nbsp;|&nbsp; [ English ](README.md)
 
 **全天候后台静默运行的 SillyTavern 世界书：用性别操演论、生命政治与人类学思想实验取代刻板的性别角色、身体宿命论与工业糖精套路。**
 

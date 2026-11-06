@@ -1,7 +1,7 @@
 # Gender De-stereotyping 2.0 (`性别去刻板印象化2.0`)
 
 
-[ ← Back to Repository Index ](https://www.google.com/search?q=../README.md) &nbsp;|&nbsp; [ English ](README.md) &nbsp;•&nbsp; [ 简体中文 ](README-zh.md)
+[ ← Back to Repository Index ](./README.md) &nbsp;•&nbsp; [ 简体中文 ](README-zh.md)
 
 **An always-on SillyTavern World Book that replaces formulaic gender, bodily, and relationship clichés with silent sociological, performative, and anthropological reasoning.**
 

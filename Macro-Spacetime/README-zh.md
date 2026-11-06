@@ -1,7 +1,7 @@
 # 宏观时空 (`Macro Spacetime`)
 
 
-[ ← 返回仓库主页 ](https://www.google.com/search?q=../README-zh.md) &nbsp;|&nbsp; [ English ](README.md) &nbsp;•&nbsp; [ 简体中文 ](README-zh.md)
+[ ← 返回仓库主页 ](./README-zh.md) &nbsp;|&nbsp; [ English ](README.md)
 
 **包含 154 个条目的跨世界观宏观社会学、政治神学、法哲学、政治经济学与“活的世界”动态角色扮演推演总引擎。**
 
