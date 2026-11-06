@@ -1,7 +1,7 @@
 # 中世纪 (`Middle Ages`)
 
 
-[ ← 返回仓库主页 ](../../README-zh.md) &nbsp;|&nbsp; [ English ](README.md)
+[ ← 返回仓库主页 ](../) &nbsp;|&nbsp; [ English ](README.md)
 
 **包含 88 个按需激活条目、零常驻开销的中世纪、早期近代、十字军修会探案与暗黑奇幻专项 SillyTavern 世界书。**
 

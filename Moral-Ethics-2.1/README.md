@@ -1,7 +1,7 @@
 # Moral Ethics 2.1 (`道德伦理学2.1`)
 
 
-[ ← Back to Repository Index ](../../README.md) &nbsp;•&nbsp; [ 简体中文 ](README-zh.md)
+[ ← Back to Repository Index ](../) &nbsp;•&nbsp; [ 简体中文 ](README-zh.md)
 
 **A 72-entry normative moral philosophy, symbolic interactionist psychology (`I` vs. `Me`), Gestalt therapy, and trauma-bias reasoning engine for SillyTavern roleplay.**
 

@@ -1,6 +1,6 @@
 # Macro Spacetime (`宏观时空`)
 
-[ ← Back to Repository Index ](../../README.md) &nbsp;•&nbsp; [ 简体中文 ](README-zh.md)
+[ ← Back to Repository Index ](../) &nbsp;•&nbsp; [ 简体中文 ](README-zh.md)
 
 **A 154-entry cross-worldview macro-sociological, political, legal, economic, and living-world reasoning engine for SillyTavern roleplay.**
 
